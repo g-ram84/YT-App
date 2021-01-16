@@ -4,4 +4,4 @@ This app uses the YouTube API to search for videos by keyword and embeds the vid
 
 To run the app, fork and clone repo, and run npm start in your command line.
 
-![cover-page](http://Users/chalm/udemy/React/videos-hooks/screenshot.png)
+![cover-page](screenshot.png)
